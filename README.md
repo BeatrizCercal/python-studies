@@ -1,5 +1,5 @@
 <p align="center">
-  ## Estudos: Python + Jupyter Notebook
+  <b>Estudos: Python + Jupyter Notebook</b>
   <br>
 </p>
 
